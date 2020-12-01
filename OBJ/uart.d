@@ -1,0 +1,14 @@
+..\obj\uart.o: ..\MyCode\uart\uart.c
+..\obj\uart.o: ..\SYSTEM\sys\sys.h
+..\obj\uart.o: ..\USER\stm32f10x.h
+..\obj\uart.o: ..\CORE\core_cm3.h
+..\obj\uart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\uart.o: ..\USER\system_stm32f10x.h
+..\obj\uart.o: ..\USER\stm32f10x_conf.h
+..\obj\uart.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\uart.o: ..\USER\stm32f10x.h
+..\obj\uart.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\uart.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\uart.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\uart.o: ..\MyCode\uart\uart.h
+..\obj\uart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

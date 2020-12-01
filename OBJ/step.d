@@ -1,0 +1,14 @@
+..\obj\step.o: ..\MyCode\step\step.c
+..\obj\step.o: ..\SYSTEM\sys\sys.h
+..\obj\step.o: ..\USER\stm32f10x.h
+..\obj\step.o: ..\CORE\core_cm3.h
+..\obj\step.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\step.o: ..\USER\system_stm32f10x.h
+..\obj\step.o: ..\USER\stm32f10x_conf.h
+..\obj\step.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\step.o: ..\USER\stm32f10x.h
+..\obj\step.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\step.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\step.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\step.o: ..\MyCode\step\step.h
+..\obj\step.o: ..\SYSTEM\delay\delay.h

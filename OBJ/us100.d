@@ -1,0 +1,16 @@
+..\obj\us100.o: ..\MyCode\us100\us100.c
+..\obj\us100.o: ..\MyCode\us100\us100.h
+..\obj\us100.o: ..\SYSTEM\delay\delay.h
+..\obj\us100.o: ..\SYSTEM\sys\sys.h
+..\obj\us100.o: ..\USER\stm32f10x.h
+..\obj\us100.o: ..\CORE\core_cm3.h
+..\obj\us100.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\us100.o: ..\USER\system_stm32f10x.h
+..\obj\us100.o: ..\USER\stm32f10x_conf.h
+..\obj\us100.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\us100.o: ..\USER\stm32f10x.h
+..\obj\us100.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\us100.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\us100.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\us100.o: ..\MyCode\uart\uart.h
+..\obj\us100.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

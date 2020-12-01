@@ -1,0 +1,17 @@
+..\obj\remote.o: ..\MyCode\REMOTE\remote.c
+..\obj\remote.o: ..\MyCode\REMOTE\remote.h
+..\obj\remote.o: ..\SYSTEM\sys\sys.h
+..\obj\remote.o: ..\USER\stm32f10x.h
+..\obj\remote.o: ..\CORE\core_cm3.h
+..\obj\remote.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\remote.o: ..\USER\system_stm32f10x.h
+..\obj\remote.o: ..\USER\stm32f10x_conf.h
+..\obj\remote.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\remote.o: ..\USER\stm32f10x.h
+..\obj\remote.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\remote.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\remote.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\remote.o: ..\SYSTEM\delay\delay.h
+..\obj\remote.o: ..\SYSTEM\usart\usart.h
+..\obj\remote.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\remote.o: ..\STM32_FWLIB\inc\stm32f10x_tim.h

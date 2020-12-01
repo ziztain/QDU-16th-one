@@ -1,0 +1,15 @@
+..\obj\mhz19b.o: ..\MyCode\mhz19b\mhz19b.c
+..\obj\mhz19b.o: ..\MyCode\mhz19b\mhz19b.h
+..\obj\mhz19b.o: ..\MyCode\uart\uart.h
+..\obj\mhz19b.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\mhz19b.o: ..\SYSTEM\sys\sys.h
+..\obj\mhz19b.o: ..\USER\stm32f10x.h
+..\obj\mhz19b.o: ..\CORE\core_cm3.h
+..\obj\mhz19b.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mhz19b.o: ..\USER\system_stm32f10x.h
+..\obj\mhz19b.o: ..\USER\stm32f10x_conf.h
+..\obj\mhz19b.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\mhz19b.o: ..\USER\stm32f10x.h
+..\obj\mhz19b.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\mhz19b.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\mhz19b.o: ..\STM32_FWLIB\inc\misc.h

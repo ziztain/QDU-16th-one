@@ -1,0 +1,17 @@
+..\obj\gsm.o: ..\MyCode\gsm\gsm.c
+..\obj\gsm.o: ..\MyCode\gsm\gsm.h
+..\obj\gsm.o: ..\MyCode\uart\uart.h
+..\obj\gsm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\gsm.o: ..\SYSTEM\sys\sys.h
+..\obj\gsm.o: ..\USER\stm32f10x.h
+..\obj\gsm.o: ..\CORE\core_cm3.h
+..\obj\gsm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\gsm.o: ..\USER\system_stm32f10x.h
+..\obj\gsm.o: ..\USER\stm32f10x_conf.h
+..\obj\gsm.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\gsm.o: ..\USER\stm32f10x.h
+..\obj\gsm.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\gsm.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\gsm.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\gsm.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\gsm.o: ..\SYSTEM\delay\delay.h

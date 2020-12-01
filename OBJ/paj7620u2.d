@@ -1,0 +1,16 @@
+..\obj\paj7620u2.o: ..\MyCode\paj7620u2\paj7620u2.c
+..\obj\paj7620u2.o: ..\MyCode\paj7620u2\paj7620u2.h
+..\obj\paj7620u2.o: ..\MyCode\paj7620u2\paj7620u2_iic.h
+..\obj\paj7620u2.o: ..\SYSTEM\sys\sys.h
+..\obj\paj7620u2.o: ..\USER\stm32f10x.h
+..\obj\paj7620u2.o: ..\CORE\core_cm3.h
+..\obj\paj7620u2.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\paj7620u2.o: ..\USER\system_stm32f10x.h
+..\obj\paj7620u2.o: ..\USER\stm32f10x_conf.h
+..\obj\paj7620u2.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\paj7620u2.o: ..\USER\stm32f10x.h
+..\obj\paj7620u2.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\paj7620u2.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\paj7620u2.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\paj7620u2.o: ..\MyCode\paj7620u2\paj7620u2_cfg.h
+..\obj\paj7620u2.o: ..\SYSTEM\delay\delay.h

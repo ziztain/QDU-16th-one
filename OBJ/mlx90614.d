@@ -1,0 +1,14 @@
+..\obj\mlx90614.o: ..\MyCode\ml90614\MLX90614.c
+..\obj\mlx90614.o: ..\MyCode\ml90614\MLX90614.h
+..\obj\mlx90614.o: ..\SYSTEM\sys\sys.h
+..\obj\mlx90614.o: ..\USER\stm32f10x.h
+..\obj\mlx90614.o: ..\CORE\core_cm3.h
+..\obj\mlx90614.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mlx90614.o: ..\USER\system_stm32f10x.h
+..\obj\mlx90614.o: ..\USER\stm32f10x_conf.h
+..\obj\mlx90614.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\obj\mlx90614.o: ..\USER\stm32f10x.h
+..\obj\mlx90614.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\obj\mlx90614.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\obj\mlx90614.o: ..\STM32_FWLIB\inc\misc.h
+..\obj\mlx90614.o: ..\SYSTEM\delay\delay.h
